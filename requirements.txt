@@ -1,0 +1,4 @@
+prettytable==3.9.0
+psycopg2==2.9.9
+pyscopg2==66.0.2
+wcwidth==0.2.9
